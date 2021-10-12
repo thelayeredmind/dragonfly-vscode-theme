@@ -1,6 +1,8 @@
 {
     "name": "dragonfly-theme",
+    "publisher": "thelayeredmind",
     "displayName": "Dragonfly Theme",
+    "repository": "https://github.com/thelayeredmind/dragonfly-vscode-theme",
     "description": "A Theme that reinterprets Firefly Midnight Pro, using a Palette of secondary colors, with a focus on Function highlighting and fixing some readability problems",
     "version": "0.0.1",
     "engines": {
@@ -17,5 +19,8 @@
                 "path": "./themes/dragonfly-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.100.1"
     }
 }
