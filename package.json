@@ -1,6 +1,6 @@
 {
     "name": "dragonfly-theme",
-    "displayName": "Dragonfly",
+    "displayName": "Dragonfly Theme",
     "description": "A Theme that reinterprets Firefly Midnight Pro, using a Palette of secondary colors, with a focus on Function highlighting and fixing some readability problems",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "LamiFly Theme",
+                "label": "Dragonfly",
                 "uiTheme": "vs-dark",
-                "path": "./themes/LamiFly Theme-color-theme.json"
+                "path": "./themes/dragonfly-color-theme.json"
             }
         ]
     }
