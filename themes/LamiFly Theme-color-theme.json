@@ -49,7 +49,7 @@
 		"list.activeSelectionBackground": "#0a0a0a",
 		"list.activeSelectionForeground": "#a8aebd",
 		"list.inactiveSelectionBackground": "#0a0a0a",
-		"list.inactiveSelectionForeground": "#ecf010",
+		"list.inactiveSelectionForeground": "#110d20",
 
 		"list.focusBackground": "#2a2a2a",
 		"list.focusForeground": "#a8aebd",
@@ -101,7 +101,7 @@
 
 		"editor.selectionBackground": "#474747",
 		"editor.selectionForeground": "#474747",
-		"editor.inactiveSelectionBackground": "#ecf010",
+		"editor.inactiveSelectionBackground": "#025a4b",
 		"editor.selectionHighlightBackground": "#262626",
 		"editor.selectionHighlightBorder": "#1d2936",
 
