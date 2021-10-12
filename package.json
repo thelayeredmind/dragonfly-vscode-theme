@@ -1,7 +1,7 @@
 {
-    "name": "layered-mind-theme",
-    "displayName": "Layered Mind Theme",
-    "description": "A Theme inspired by the awesome Firefly Pro adapted to multiple language and fixed some messy contrasts",
+    "name": "dragonfly-theme",
+    "displayName": "Dragonfly",
+    "description": "A Theme that reinterprets Firefly Midnight Pro, using a Palette of secondary colors, with a focus on Function highlighting and fixing some readability problems",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.61.0"
