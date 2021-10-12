@@ -13,11 +13,11 @@
         "titleBar.border": "#000000",
         
 		"textBlockQuote.background": "#0d1016",
-		"textLink.foreground": "#ecf010",
+		"textLink.foreground": "#dcff14",
 		"textLink.activeForeground": "#a0a8bd",
         "textPreformat.foreground": "#a0a8bd",
         
-		"button.background": "#ecf010",
+		"button.background": "#dcff14",
 		"button.foreground": "#151515",
 		"button.hoverBackground": "#869c30",
 
@@ -42,14 +42,14 @@
 		"scrollbarSlider.hoverBackground": "#343434",
 		"scrollbarSlider.activeBackground": "#3f3f3f",
 
-		"badge.background": "#ecf010",
+		"badge.background": "#dcff14",
 		"badge.foreground": "#0a0e14",
-		"progressBar.background": "#ecf010",
+		"progressBar.background": "#dcff14",
 
 		"list.activeSelectionBackground": "#0a0a0a",
 		"list.activeSelectionForeground": "#a8aebd",
 		"list.inactiveSelectionBackground": "#0a0a0a",
-		"list.inactiveSelectionForeground": "#ecf010",
+		"list.inactiveSelectionForeground": "#a42#000",
 
 		"list.focusBackground": "#2a2a2a",
 		"list.focusForeground": "#a8aebd",
@@ -58,11 +58,10 @@
 		"list.hoverForeground": "#b8b8b8",
 		"list.invalidItemForeground": "#2e323c",
 		"list.errorForeground" : "#cc0000",
-	
 		"activityBar.background": "#191823",
-		"activityBar.foreground": "#ecf010",
+		"activityBar.foreground": "#dcff14",
 		"activityBar.border": "#000000",
-		"activityBarBadge.background": "#ecf010",
+		"activityBarBadge.background": "#dcff14",
         "activityBarBadge.foreground": "#0a0e14",
         
 		"sideBar.background": "#20202c",
@@ -138,7 +137,7 @@
 		"diffEditor.insertedTextBackground": "#c2d94c26",
 		"diffEditor.removedTextBackground": "#f2966826",
 		"editorWidget.background": "#0d1016",
-		"editorWidget.border" : "#ecf010",
+		"editorWidget.border" : "#dcff14",
 		"editorSuggestWidget.background": "#0d1016",
 		"editorSuggestWidget.border": "#000000",
 		"editorSuggestWidget.highlightForeground": "#e6b450",
@@ -159,8 +158,8 @@
 		"peekViewTitleLabel.foreground": "#3d424d",
 
 		"panel.background": "#0a0a0a",
-		"panel.border": "#ecf010",
-		"panelTitle.activeBorder": "#ecf010",
+		"panel.border": "#dcff14",
+		"panelTitle.activeBorder": "#dcff14",
 		"panelTitle.activeForeground": "#a0a8bd",
 		"panelTitle.inactiveForeground": "#86898f",
 		
@@ -398,7 +397,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ecf010"
+				"foreground": "#dcff14"
 			}
 		},
 		{
