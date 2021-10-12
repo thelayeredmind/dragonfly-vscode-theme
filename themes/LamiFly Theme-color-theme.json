@@ -239,7 +239,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#ecf010"
+				"foreground": "#67bd5c"
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ff8533"
+				"foreground": "#ecf010"
 			}
 		},
 		{
