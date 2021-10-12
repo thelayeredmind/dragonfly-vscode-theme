@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "layered-mind-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dragonfly Theme
+## A color theme that reinterprets the Firefly Pro Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is built on top of ankit's awesome [Fire Fly Pro](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly) theme and makes use of a Palette mainly composed of three secondary colors, is optimized for a variety of programming languages, tries to increase the readability and fix some contrast issues of the original theme and put's its focus on highlighting function calls. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
