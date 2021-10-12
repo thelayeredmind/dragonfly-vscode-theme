@@ -1,0 +1,21 @@
+{
+    "name": "layered-mind-theme",
+    "displayName": "Layered Mind Theme",
+    "description": "A Theme inspired by the awesome Firefly Pro adapted to multiple language and fixed some messy contrasts",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LamiFly Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LamiFly Theme-color-theme.json"
+            }
+        ]
+    }
+}
