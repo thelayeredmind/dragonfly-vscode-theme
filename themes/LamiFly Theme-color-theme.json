@@ -13,11 +13,11 @@
         "titleBar.border": "#000000",
         
 		"textBlockQuote.background": "#0d1016",
-		"textLink.foreground": "#a4bd00",
+		"textLink.foreground": "#ecf010",
 		"textLink.activeForeground": "#a0a8bd",
         "textPreformat.foreground": "#a0a8bd",
         
-		"button.background": "#a4bd00",
+		"button.background": "#ecf010",
 		"button.foreground": "#151515",
 		"button.hoverBackground": "#869c30",
 
@@ -42,14 +42,14 @@
 		"scrollbarSlider.hoverBackground": "#343434",
 		"scrollbarSlider.activeBackground": "#3f3f3f",
 
-		"badge.background": "#a4bd00",
+		"badge.background": "#ecf010",
 		"badge.foreground": "#0a0e14",
-		"progressBar.background": "#a4bd00",
+		"progressBar.background": "#ecf010",
 
 		"list.activeSelectionBackground": "#0a0a0a",
 		"list.activeSelectionForeground": "#a8aebd",
 		"list.inactiveSelectionBackground": "#0a0a0a",
-		"list.inactiveSelectionForeground": "#a4bd00",
+		"list.inactiveSelectionForeground": "#ecf010",
 
 		"list.focusBackground": "#2a2a2a",
 		"list.focusForeground": "#a8aebd",
@@ -60,9 +60,9 @@
 		"list.errorForeground" : "#cc0000",
 	
 		"activityBar.background": "#191823",
-		"activityBar.foreground": "#a4bd00",
+		"activityBar.foreground": "#ecf010",
 		"activityBar.border": "#000000",
-		"activityBarBadge.background": "#a4bd00",
+		"activityBarBadge.background": "#ecf010",
         "activityBarBadge.foreground": "#0a0e14",
         
 		"sideBar.background": "#20202c",
@@ -101,7 +101,7 @@
 
 		"editor.selectionBackground": "#474747",
 		"editor.selectionForeground": "#474747",
-		"editor.inactiveSelectionBackground": "#a4bd00",
+		"editor.inactiveSelectionBackground": "#ecf010",
 		"editor.selectionHighlightBackground": "#262626",
 		"editor.selectionHighlightBorder": "#1d2936",
 
@@ -138,7 +138,7 @@
 		"diffEditor.insertedTextBackground": "#c2d94c26",
 		"diffEditor.removedTextBackground": "#f2966826",
 		"editorWidget.background": "#0d1016",
-		"editorWidget.border" : "#a4bd00",
+		"editorWidget.border" : "#ecf010",
 		"editorSuggestWidget.background": "#0d1016",
 		"editorSuggestWidget.border": "#000000",
 		"editorSuggestWidget.highlightForeground": "#e6b450",
@@ -159,8 +159,8 @@
 		"peekViewTitleLabel.foreground": "#3d424d",
 
 		"panel.background": "#0a0a0a",
-		"panel.border": "#a4bd00",
-		"panelTitle.activeBorder": "#a4bd00",
+		"panel.border": "#ecf010",
+		"panelTitle.activeBorder": "#ecf010",
 		"panelTitle.activeForeground": "#a0a8bd",
 		"panelTitle.inactiveForeground": "#86898f",
 		
@@ -239,7 +239,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#a4bd00"
+				"foreground": "#ecf010"
 			}
 		},
 		{
