@@ -31,7 +31,7 @@
 		"input.placeholderForeground": "#2e323c",
 		"inputOption.activeBorder": "#e6b450",
 		"inputValidation.errorBackground": "#0a0e14",
-		"inputValidation.errorBorder": "#fc0404",
+		"inputValidation.errorBorder": "#c90335",
 		"inputValidation.infoBackground": "#0a0e14",
 		"inputValidation.infoBorder": "#39bae6",
 		"inputValidation.warningBackground": "#0a0e14",
@@ -57,7 +57,7 @@
 		"list.hoverBackground": "#0a0a0a",
 		"list.hoverForeground": "#b8b8b8",
 		"list.invalidItemForeground": "#2e323c",
-		"list.errorForeground" : "#cc0000",
+		"list.errorForeground" : "#c90335",
 		"activityBar.background": "#191823",
 		"activityBar.foreground": "#dcff14",
 		"activityBar.border": "#000000",
@@ -127,9 +127,9 @@
 		"editorOverviewRuler.modifiedForeground": "#6994bf99",
 		"editorOverviewRuler.addedForeground": "#91b36299",
 		"editorOverviewRuler.deletedForeground": "#d96c7599",
-		"editorOverviewRuler.errorForeground": "#ff3333",
+		"editorOverviewRuler.errorForeground": "#c90335",
 		"editorOverviewRuler.warningForeground": "#e6b450",
-		"editorError.foreground": "#ff3333",
+		"editorError.foreground": "#c90335",
 		"editorWarning.foreground": "#e6b450",
 		"editorGutter.modifiedBackground": "#6994bf99",
 		"editorGutter.addedBackground": "#91b36299",
@@ -519,7 +519,7 @@
 				"invalid"
 			],
 			"settings": {
-				"foreground": "#ee2b31"
+				"foreground": "#c90335"
 			}
 		},
 		{
@@ -592,7 +592,7 @@
 				"constant.numeric.line-number.match"
 			],
 			"settings": {
-				"foreground": "#ff8f40"
+				"foreground": "#ff6333"
 			}
 		},
 		{
