@@ -258,7 +258,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#e6e600"
+				"foreground": "#97f5ac"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#e6b450"
+				"foreground": "#ffe570"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f29668"
+				"foreground": "#a868f2"
 			}
 		},
 		{
